@@ -1630,6 +1630,7 @@
 
 		a:hover {
 			text-decoration: none;
+			color: #73A8E5;
 		}
 
 	strong, b {
@@ -1660,11 +1661,14 @@
 	h2 {
 		font-size: 1.85em;
 		font-weight: 300;
+		color: #73A8E5;
+		font-weight: bold; 
 	}
 
 	h3 {
 		font-size: 1.75em;
-	}
+		color: #B6E016;
+			}
 
 		@media screen and (max-width: 480px) {
 
@@ -2745,7 +2749,7 @@
 		}
 
 			#header a:hover {
-				color: #ffffff;
+				color: #73A8E5;
 			}
 
 			#header a:last-child {
@@ -2901,7 +2905,7 @@
 			}
 
 			#navPanel .close:hover {
-				color: inherit;
+				color: #73A8E5 ;
 			}
 
 /* Banner */
@@ -2937,7 +2941,7 @@
 		#banner h1 {
 			font-size: 3.5em;
 			font-weight: 400;
-			color: #fff;
+			color: #73A8E5;
 			line-height: 1em;
 			margin: 0 0 1em 0;
 			padding: 0;
